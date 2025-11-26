@@ -5,6 +5,11 @@ Apenas um menu .bat para auxiliar o extrator sk-zk.
 
 Para instalar, basta colocar o arquivo extractor.exe no mesmo local que o arquivo SweetUnlocker.bat.
 
+**DEVE FICAR EXATAMENTE ASSIM:**
+
+<img width="609" height="62" alt="image" src="https://github.com/user-attachments/assets/f935b43c-ec5e-4008-9e69-acdf9344436f" />
+ 
+
 Faça o download [aqui](https://github.com/SweetRlk/SweetUnlocker/releases) e extraia o arquivo .zip.
 
 **PTBR**
